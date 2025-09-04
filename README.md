@@ -24,22 +24,36 @@
 </head>
 <body>
     <p class="big-text">Takuto's Personal Space</p>
+    
     <div style="text-align: center;">
        <img src="petty.gif" alt="Petty GIF">
     </div>
+
     <div style="text-align: center;">
         <p style="color: #fff;">みなさん、こんにちは。私のウェブサイトへようこそ。</p>
     </div>
+
     <p class="small-text">
-        My name is Takuto Hayato (隼 拓人) Im an artist and also i have interest in collecting stuffies, including merchadise, figurines, manga, etc.</p>
-    <p class="small-text">besides drawing, im also a musicaholic, which's im a music listener 24/7 hours. the music i listened is mostly VKEI (V-kei/Visual kei, 
-        is a Japanese music and fashion movement that began in the early 1980s, characterized by its emphasis on elaborate, extravagant, and often androgynous stage costumes, makeup, and hairstyles), J-Rock, indonesian indie music (such as hindia, harum manis, sore, etc.)</p>
+        My name is Takuto Hayato (隼 拓人). I'm an artist and I also have interest in collecting stuffies, including merchandise, figurines, manga, etc.
+    </p>
+    
+    <p class="small-text">
+        Besides drawing, I'm also a musicaholic, which means I listen to music 24/7. The music I listen to is mostly VKEI (Visual Kei), J-Rock, and Indonesian indie music (such as Hindia, Harum Manis, Sore, etc.).
+    </p>
+
+    <p class="big-text" style="font-size: 30px; font-family: monospace;">
+        <strong>My Social Media</strong>
+    </p>
+
+    <p class="small-text">
+        <a href="https://www.instagram.com/takuto__hayato/" target="_blank" style="color: #ffffff;">Instagram</a>
+    </p>
+    <p class="small-text">
+        <a href="https://takutohayato.straw.page/" target="_blank" style="color: #ffffff;">Strawpage</a>
+    </p>
+    <p class="small-text">
+        <a href="https://www.tiktok.com/@takuto09682" target="_blank" style="color: #ffffff;">TikTok</a>
+    </p>
 </body>
-<p class="big-text" style="font-size: 30px; font-family: monospace;"><strong>My Social Media</strong></p>
-<p class="small-text">
-    <a href=https://www.instagram.com/takuto__hayato/ target="_blank" style="color: #ffffff;">Instagram</a> </p>
-    <p class="small-text">
-    <a href=https://takutohayato.straw.page/ target="_blank" style="color: #ffffff;">strawpage</a> </p>
-    <p class="small-text">
-    <a href=https://www.tiktok.com/@takuto09682 target="_blank" style="color: #ffffff;">tiktok</a> </p>
 </html>
+
