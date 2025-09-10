@@ -25,6 +25,10 @@
     <p class="big-text">Takuto's Personal Space</p>
     
     <div style="text-align: center;">
+       <img src="petty.gif" alt="Petty GIF">
+    </div>
+
+    <div style="text-align: center;">
         <p style="color: #fff;">みなさん、こんにちは。私のウェブサイトへようこそ。</p>
     </div>
 
