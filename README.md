@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -5,7 +6,7 @@
     <title>Takuto hayato</title>
     <style>
         body {
-            background-color: #3a4956;
+            background-color: #367ebd;
             font-family: Old English Text MT, serif;
         }
         .big-text {
@@ -15,7 +16,7 @@
         }
         .small-text {
             font-size: 17px;
-            color: #ffffff;
+            color: rgb(255, 255, 255);
             text-align: center;
             font-family: monospace;
         }
@@ -23,9 +24,13 @@
 </head>
 <body>
     <p class="big-text">Takuto's Personal Space</p>
+    
+    <div style="text-align: center;">
+       <img src="anjoy.jpeg" alt="anjoy.jpeg">
+    </div>
 
     <div style="text-align: center;">
-        <p style="color: #fff;">みなさん、こんにちは。私のウェブサイトへようこそ。</p>
+        <p style="color: #ffc813;">みなさん、こんにちは。私のウェブサイトへようこそ。</p>
     </div>
 
     <p class="small-text">
@@ -51,4 +56,3 @@
     </p>
 </body>
 </html>
-
