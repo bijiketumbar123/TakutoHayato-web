@@ -22,7 +22,9 @@
     </style>
 </head>
 <body>
-    <p class="big-text">Takuto's Personal Space</p>
+    <p class="big-text" style="font-size: 64px; font-family: monospace;">
+        <strong>TAKUTO HAYATO'S SPACE</strong>
+    </p>
     
     <div style="text-align: center;">
        <img src="anjoy.jpeg" alt="anjoy.jpeg">
@@ -45,13 +47,13 @@
     </p>
 
     <p class="small-text">
-        <a href="https://www.instagram.com/takuto__hayato/" target="_blank" style="color: #ffffff;">Instagram</a>
+        <a href="https://www.instagram.com/takuto__hayato/" target="_blank" style="color: #ffc813;">Instagram</a>
     </p>
     <p class="small-text">
-        <a href="https://takutohayato.straw.page/" target="_blank" style="color: #ffffff;">Strawpage</a>
+        <a href="https://takutohayato.straw.page/" target="_blank" style="color: #ffc813;">Strawpage</a>
     </p>
     <p class="small-text">
-        <a href="https://www.tiktok.com/@takuto09682" target="_blank" style="color: #ffffff;">TikTok</a>
+        <a href="https://www.tiktok.com/@takuto09682" target="_blank" style="color: #ffc813;">TikTok</a>
     </p>
 </body>
 </html>
